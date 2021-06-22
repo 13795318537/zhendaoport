@@ -1,8 +1,0 @@
-token: iPcGnfrxCUlgtmTowvDi6rIMY15CvBNg
-#会员列表http://yapi.syy.dongchali.cn/project/27/interface/api/2722
-member_list:
-  member_list_data:
-    - [http://devsyy002.presyy.nbseo.cn/baseapi/platform/member/index,1, 50,'','','','','','','','','',101]
-
-  myid:
-    - '正常请求'
