@@ -2,7 +2,6 @@ import json
 from Publicway.Base_api import Base_Api_syyA
 
 
-
 class Public_interf(Base_Api_syyA):
 
     def __init__(self, acc_token):

@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from zhendaoport.Publicway.Public_interface import Public_interf
+from Publicway.Public_interface import Public_interf
 
 
 class Member_api_A(Public_interf):
