@@ -2,4 +2,4 @@
 
 class test():
     def test(self):
-        pass
+        print(123)
