@@ -4,7 +4,7 @@ import allure
 import pytest
 import os
 import yaml
-from zhendaoport.syyA.Member_management.member_management import Member_api_A
+from syyA.Member_management.member_management import Member_api_A
 
 # 测试前打开yaml文件
 yaml_file_path = os.path.dirname(__file__) + "/memberdata.yaml"
